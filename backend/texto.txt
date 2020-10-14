@@ -1,0 +1,9 @@
+{
+	"name" : "Lar dos cara brabo",
+	"latitude" : -20.0105616,
+	"longitude" : -44.0103913,
+	"about" : "Sobre o orfanato",
+	"instructions" : "Venha todos os dias",
+	"opening_hours" : "Das 8hrs até 18hrs",
+	"open_on_weekends" : true 
+}
